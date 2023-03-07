@@ -1,6 +1,6 @@
 li = [1,2,3,4,5]
 
-squares = [i**2 for i in li]
+square = [i**2 for i in li]
 
 cube = [j**3 for j in li]
 
